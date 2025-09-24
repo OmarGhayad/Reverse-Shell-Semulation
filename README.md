@@ -37,7 +37,7 @@ The goal is to teach how attackers exploit reverse shells and how defenders can 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/reverse-shell-semulation.git
+git clone https://github.com/OmarGhayad/reverse-shell-semulation.git
 cd reverse-shell-semulation
 ```
 
